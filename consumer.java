@@ -1,4 +1,4 @@
-consumer implements Runnable{
+class consumer implements Runnable{
 factory fact;
 
 consumer(factory fact){
